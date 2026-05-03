@@ -1,7 +1,7 @@
 ## Dataset
 Due to GitHub file size limitations, the dataset is not included in this repository.
 
-You can download it from:
+You can download the Datasets from:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 After downloading, place the dataset in:
